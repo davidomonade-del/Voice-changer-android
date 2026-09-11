@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Voice Changer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="status_off">Stopped</string>
+    <string name="status_on">Live — speak into the mic</string>
+    <string name="hint_headphones">Use headphones to prevent feedback howl.</string>
+    <string name="choose_effect">Choose effect</string>
+    <string name="mic_denied">Microphone permission is required</string>
+
+    <string-array name="effects">
+        <item>Deep</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Chipmunk</item>
+        <item>Robot</item>
+        <item>Echo</item>
+        <item>Phone</item>
+        <item>Cave</item>
+        <item>Normal</item>
+    </string-array>
+</resources>
